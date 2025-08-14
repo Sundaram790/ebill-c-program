@@ -18,3 +18,4 @@ The program uses a slab-based rate system:
 A fixed meter maintenance charge (₹50) is added to every bill.  
 The bill is then displayed in a formatted layout.
 
+Code and output screenshot -> [
