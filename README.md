@@ -18,4 +18,4 @@ The program uses a slab-based rate system:
 A fixed meter maintenance charge (₹50) is added to every bill.  
 The bill is then displayed in a formatted layout.
 
-Code and output screenshot -> [
+Code and output screenshot -> [https://github.com/Sundaram790/ebill-c-program/blob/main/Screenshot%202025-08-14%20223937.png?raw=true]
